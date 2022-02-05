@@ -1,0 +1,55 @@
+section {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 45%;
+    margin: calc(10%/5);
+
+}
+
+section {
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color:rgb(101,107,138); ;
+}
+
+body {
+    margin: 8px;
+    display: block; 
+    background-color: rgb(30,37,69);
+    color: white;
+}
+
+.title {
+    background-color:rgb(101,107,138);
+}
+
+
+#mainHeading {
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: red;
+}
+
+
+.funParagraph {
+    color: green;
+}
+
+nav {
+    font-size: 12px;
+
+}
+
+#Navigation {
+    font-size: 15px;
+}
